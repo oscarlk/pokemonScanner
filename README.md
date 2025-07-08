@@ -7,3 +7,5 @@ Challenges: need to calculate average price, but can't just use client, will pro
 ## Deployed on Vercel
 
 https://pokemon-scanner-sooty.vercel.app/
+
+using amazon textract - https://www.npmjs.com/package/@aws-sdk/client-textract?activeTab=readme
